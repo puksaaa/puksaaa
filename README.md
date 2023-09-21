@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=puksaaa&layout=compact)
 
 
-Принимала участие в хакатоне в школе Алгоритмика
+Принимала участие в хакатоне в школе Алгоритмика  
 Знаю различные библиотеки для Python. На них было написано 5+ проектов
