@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 - HTML/CSS ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 - Сервисом для разработки интерфейсов Figma ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 - Сервисом GitHub ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+https://github.com/teuchezh/teuchezh
 -->
 ##### **Меня зовут Евангелина и я занимаюсь программированием более 3-х лет.**
 Обучалась в международной школе программирования [Алгоритмика](https://algoritmika.org/ru) на протяжении 3-х лет, обучаюсь в центре развития [Кванториум](https://kvantorium73.ru/)
