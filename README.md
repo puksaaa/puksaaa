@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 https://github.com/teuchezh/teuchezh
 -->
-##### **Меня зовут Евангелина и я занимаюсь программированием более 3-х лет.**
+##### **Меня зовут Евангелина и я занимаюсь программированием более 3-х лет.**<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%D0%AF+%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D0%B9+%D0%B2%D0%B5%D0%B1-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA" alt="Typing SVG" /></a>
 Обучалась в международной школе программирования [Алгоритмика](https://algoritmika.org/ru) на протяжении 3-х лет, обучаюсь в центре развития [Кванториум](https://kvantorium73.ru/)
 
 ## Умею работать с: 
