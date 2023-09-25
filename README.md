@@ -1,4 +1,4 @@
-<img src="https://github.com/puksaaa/puksaaa/blob/main/image.png" alt="header">
+<h1 align="center">Hi there, I'm Evangelina</h1>
 
 <!--
 **puksaaa/puksaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -35,6 +35,10 @@ https://github.com/teuchezh/teuchezh
 </div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=puksaaa&layout=compact)
+
+
+Принимала участие в хакатоне в школе Алгоритмика  
+Знаю различные библиотеки для Python. На них было написано 5+ проектов
 
 
 Принимала участие в хакатоне в школе Алгоритмика  
