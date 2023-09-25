@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Evangelina</h1>
+<img src="https://github.com/puksaaa/puksaaa/blob/main/image.png" alt="header">
 
 <!--
 **puksaaa/puksaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
