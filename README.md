@@ -5,6 +5,7 @@
 
 Here are some ideas to get you started:
 ![7f4a13c76d5578d8f4f754573477daff](https://github.com/puksaaa/puksaaa/assets/99078723/f19afa10-b71e-40be-b1bf-958afcadd4bf)
+![68232be97552046c22a9251931a0d163 (1)](https://github.com/puksaaa/puksaaa/assets/99078723/11198d2c-d85b-49c0-9790-74acc0e53b21)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
